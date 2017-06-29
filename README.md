@@ -1,7 +1,7 @@
 # Rocket web backend application
 
 ## About
-This is a project based on a fork from [![Rust web boilerplate](https://github.com/svenstaro/rust-web-boilerplate)]. 
+This is a project based on a fork of ![Rust web boilerplate](https://github.com/svenstaro/rust-web-boilerplate). 
 
 ## Development setup
 
